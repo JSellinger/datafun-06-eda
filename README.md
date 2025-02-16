@@ -2,6 +2,14 @@
 
 This project is a exploratory data analysis using Jupyter notebooks and optionally sqlite.
 
+## Data Source
+
+I tapped into a Github with clean data sources of varying sizes and chose one that I thought would be simple enough to quickly analyze, I did not want it to be too complicated. The Link to the repo with the organizations database is below:
+
+https://github.com/datablist/sample-csv-files/tree/main?tab=readme-ov-file
+
+
+
 ## Create and Manage your Project Virtual Environment
 
 This project uses external packages, which are not included in the Python Standard Library - we must install them. 
